@@ -1,4 +1,4 @@
-# super_tainyans
+# SUPER TAINYANS
 Game " SUPER TAINYANS "
 
 ## License
